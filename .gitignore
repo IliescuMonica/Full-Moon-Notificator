@@ -1,0 +1,6 @@
+.env
+last_sent.txt
+task_log.txt
+.idea/
+__pycache__/
+venv/
